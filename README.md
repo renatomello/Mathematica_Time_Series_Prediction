@@ -1,6 +1,3 @@
 # Mathematica_Time_Series_Prediction
 
-
-This project was presented as the final assessment of a PhD class at the in the Institue of Physics (IF) of the Federal University of Rio de Janeiro (UFRJ), Brazil.
-
-The course subject was an Introduction to the Mathematica software, from its syntaxe to state-of-the-art research techniques.
+Primeiro, diversas funções importantes para análise "clássica" de séries temporais, além da inicialização de redes neurais long short-term memory usando a biblioteca de redes neurais do Mathematica. Em seguida, apresento três aplicações, na seguinte ordem: primeiro, utilizo um exemplo de série temporal em que, apesar de clara tendência sazonal, as redes neurais não conseguem predizer um número significativo de pontos no futuro. Este exemplo é utilizado para mostrar a importância de um bom pré-processamento "clássico" das séries. Segundamente, mostro um exemplo onde o pré-processamento de uma série temporal é bem sucedido, levando a um processo de predição razoável. Por último, mostro um exemplo em que uma série temporal é extremamente difícil de ser predita por intervenções externas irregulares, independentes de pré-processamento.
